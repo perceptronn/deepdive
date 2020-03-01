@@ -1,0 +1,3 @@
+# Questions...
+1. Why do we need additional bias term in perceptron? 
+2. What is the role of activation function in a perceptron? Why do we need activation function at all?
